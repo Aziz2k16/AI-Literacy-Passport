@@ -1,0 +1,6 @@
+{
+  "name": "AI Literacy Passport",
+  "description": "A gamified, bite-sized web app to master AI through daily lessons, streaks, passport stamps, and live Gemini prompt coaching.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
